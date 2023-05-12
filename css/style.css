@@ -1,0 +1,52 @@
+.head{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.container{
+    padding: 2% 13%;
+}
+.right{
+    display: flex;    
+}
+
+.rightleft{
+    display: flex;
+    align-items: center;
+}
+
+.rightleft a{
+    margin-left: 30px;
+    font-size: 118%;
+    color: #747375;
+    font-family: Medium;   
+}
+
+.rightright a{
+    margin-left: 70px;
+    font-size: 14px;
+    color: #FFFF;
+    font-family: Medium;   
+    padding: 15px 20px;
+    background-color: #00ba94;
+    border-radius: 5px;
+
+}
+
+.rightleft i{
+    font-size: 73%;
+}
+
+.left a{
+    font-size: 136%;
+    color: #000000;
+    font-family: Bold;
+}
+
+.buynow i{
+    margin-left: 10px;
+    color: rgb(231, 227, 227);
+    font-size: 11px;
+}
+
